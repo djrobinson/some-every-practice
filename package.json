@@ -1,0 +1,25 @@
+{
+  "name": "some-every-practice",
+  "version": "1.0.0",
+  "description": "Let's practice using `every` and `some`!",
+  "main": "every.js",
+  "dependencies": {
+    "chai": "^3.4.1"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djrobinson/some-every-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djrobinson/some-every-practice/issues"
+  },
+  "homepage": "https://github.com/djrobinson/some-every-practice#readme"
+}
